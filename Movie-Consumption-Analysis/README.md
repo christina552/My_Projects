@@ -18,7 +18,9 @@
 
 ## 📂 Files  
 - [📄 Report PDF](./annotated-_DATA%20MINING%20-%20PART%202.docx%20%281%29.pdf)
-- [📊 Dataset](annotated-Dataset.xlsx.pd)   
+- [📊 Dataset](annotated-Dataset.xlsx.pd)
+- [📓 Google Colab Notebook](./CAJ_DM_2%20(2).ipynb)
+ 
 
 ## 🛠️ Skills Demonstrated  
 - Data Mining (Apriori, Association Rules)  
