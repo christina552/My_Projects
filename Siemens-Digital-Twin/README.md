@@ -1,5 +1,4 @@
 # Siemens Digital Twin Adoption – TOE Framework Case Study
-# Siemens Digital Twin Adoption – TOE Framework Case Study  
 
 **Type:** Academic Project – MSc (University of Liverpool)  
 **Focus Areas:** Industry 4.0, IoT, AI, TOE Framework, Digital Transformation  
