@@ -17,7 +17,7 @@
 - Provided strategic insights for producers, distributors, and marketing teams.  
 
 ## 📂 Files  
-- [📄 Report PDF](./annotated-_DATA%20MINING%20-%20PART%202%20.docx%20(1).pdf)  
+- [📄 Report PDF](./annotated-_DATA%20MINING%20-%20PART%202%20.docx%20(1).pdf)
 - [📊 Dataset](annotated-Dataset.xlsx.pd)   
 
 ## 🛠️ Skills Demonstrated  
