@@ -35,5 +35,13 @@ Each folder includes a detailed report and supporting files.
   - Applied TOE Framework to Siemens’ adoption of Digital Twin technology  
   - Reported **75% automation, 20% cost reduction, 8% revenue growth, 60% CO₂ reduction**  
   - Connected insights to **Dynamic Capabilities** and **Innovation Diffusion Theory**  
-  - Files: [Report PDF](./Siemens-Digital-Twin/REPORT.pdf)  
+  - Files: [Report PDF](./Siemens-Digital-Twin/REPORT.pdf)
+ 
+  ### 6. [Big Data Retail Analytics – Random Forest Case Study](./Big-Data-Retail-Analytics)  
+- **Tools:** Python, scikit-learn, Random Forest  
+- **Focus:** Predictive modeling & business insights for retail marketing  
+- **Highlights:**  
+  - Achieved ~90% accuracy on UCI Bank Marketing dataset  
+  - Identified duration & balance as key predictors for term deposit subscription  
+  - Connected ML outputs to retail strategy (22% profit margin in Swedish women’s clothing)  
 
