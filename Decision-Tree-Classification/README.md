@@ -18,7 +18,7 @@
 - In healthcare, decision trees provided **clear, interpretable rules** (e.g., “Age > 65 & Oxygen Saturation < 90% → high mortality risk”).  
 
 ## 📂 Files  
-- [📄 Report PDF](./annotated-DATA%20MINING%20ASSIGNMENT%20-%201.docx.pdf)  
+- [📄 Report PDF](DATA%20MINING%20ASSIGNMENT%20-%201%20.pdf)  
 
 ## 🛠️ Skills Demonstrated  
 - Machine Learning (Decision Tree Classification, Pruning)  
