@@ -18,7 +18,7 @@
 - Evaluated trade-offs between **economic performance and ecological sustainability** in fisheries through policy modelling.  
 
 ## 📂 Files  
-- [📄 Report PDF](Operations-Modelling-Simulation/Operations-Modelling-Simulation/annotated-EBUS504_CHRISTINA_201805307.docx.pdf)  
+- [📄 Report PDF](Operations-Modelling-Simulation/annotated-EBUS504_CHRISTINA_201805307.docx.pdf)  
 - [🗂️ Project Files (ZIP)](ProjectFiles.zip)  
 
 ## 🛠️ Skills Demonstrated  
