@@ -35,5 +35,5 @@ Each folder includes a detailed report and supporting files.
   - Applied TOE Framework to Siemens’ adoption of Digital Twin technology  
   - Reported **75% automation, 20% cost reduction, 8% revenue growth, 60% CO₂ reduction**  
   - Connected insights to **Dynamic Capabilities** and **Innovation Diffusion Theory**  
-  - Files: [Report PDF](./REPORT.pdf)  
+  - Files: [Report PDF](./Siemens-Digital-Twin/REPORT.pdf)  
 
