@@ -19,7 +19,7 @@
 
 ## 📂 Files  
 - [📄 Report PDF](./annotated-EBUS504_CHRISTINA_201805307.docx.pdf)  
-- [🗂️ Project Files (ZIP)](ProjectFiles.zip)  
+- [🗂️ Project Files (ZIP)](./EBUS504_CHRISTINA_201805307 (2).zip)  
 
 ## 🛠️ Skills Demonstrated  
 - Operations research  
