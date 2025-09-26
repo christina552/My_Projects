@@ -28,3 +28,12 @@ Each folder includes a detailed report and supporting files.
   - High-budget action films → 91.6% confidence for theatrical success  
   - Low-budget comedies → 84.6% confidence for OTT success  
   - Files: [Report PDF](./Movie-Consumption-Analysis/annotated-_DATA%20MINING%20-%20PART%202.docx%20%281%29.pdf)
+ 
+  ### 5. [Siemens Digital Twin Adoption – TOE Framework Case Study](./Siemens-Digital-Twin)  
+- **Focus:** Industry 4.0, IoT, AI, and sustainability  
+- **Highlights:**  
+  - Applied TOE Framework to Siemens’ adoption of Digital Twin technology  
+  - Reported **75% automation, 20% cost reduction, 8% revenue growth, 60% CO₂ reduction**  
+  - Connected insights to **Dynamic Capabilities** and **Innovation Diffusion Theory**  
+  - Files: [Report PDF](./Report.pdf)  
+
