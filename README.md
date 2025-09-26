@@ -19,4 +19,12 @@ Each folder includes a detailed report and supporting files.
 - **Highlights:**  
   - Built & pruned decision tree achieving ~74% accuracy  
   - Applied CRISP-DM framework to healthcare dataset (mortality prediction)  
-  - Files: [Report PDF](./Decision-Tree-Classification/DATA%20MINING%20ASSIGNMENT%20-%201%20.pdf)  
+  - Files: [Report PDF](./Decision-Tree-Classification/DATA%20MINING%20ASSIGNMENT%20-%201%20.pdf)
+
+ ### 3. [Movie Consumption Analysis (OTT vs Theatrical)](./Movie-Consumption-Analysis)  
+- **Tools:** Python, Apriori Algorithm  
+- **Focus:** Consumer behavior & movie marketing strategy  
+- **Highlights:**  
+  - High-budget action films → 91.6% confidence for theatrical success  
+  - Low-budget comedies → 84.6% confidence for OTT success  
+  - Files: [Report PDF](./Movie-Consumption-Analysis/annotated-_DATA%20MINING%20-%20PART%202.docx%20%281%29.pdf)
