@@ -19,6 +19,7 @@
 
 ## 📂 Files  
 - [📄 Report PDF](./BIGDATAPROJECT.pdf)  
+- [📓 Google Colab Notebook](./BIG_DATA.ipynb)
 
 ## 🛠️ Skills Demonstrated  
 - Machine Learning (Random Forest Classification)  
