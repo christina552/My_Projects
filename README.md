@@ -43,5 +43,14 @@ Each folder includes a detailed report and supporting files.
 - **Highlights:**  
   - Achieved ~90% accuracy on UCI Bank Marketing dataset  
   - Identified duration & balance as key predictors for term deposit subscription  
-  - Connected ML outputs to retail strategy (22% profit margin in Swedish women’s clothing)  
+  - Connected ML outputs to retail strategy (22% profit margin in Swedish women’s clothing)
+ 
+  ### 7. [EU Insurance Pricing & Disaster Data Analytics](./EU-Insurance-Analytics)  
+- **Tools/Focus:** Big data integration, risk visualization, business intelligence  
+- **Highlights:**  
+  - Analyzed EU datasets (EIOPA, EM-DAT, CRED) to identify insurance pricing gaps  
+  - Visualized insured vs uninsured losses across France, Germany, and Norway  
+  - Proposed AI-driven predictive models, dashboards, and parametric insurance models  
+  - Files: [Report PDF](./INSURANCEPROJECT.pdf)  
+  
 
