@@ -51,6 +51,14 @@ Each folder includes a detailed report and supporting files.
   - Analyzed EU datasets (EIOPA, EM-DAT, CRED) to identify insurance pricing gaps  
   - Visualized insured vs uninsured losses across France, Germany, and Norway  
   - Proposed AI-driven predictive models, dashboards, and parametric insurance models  
-  - Files: [Report PDF](./INSURANCEPROJECT.pdf)  
+  - Files: [Report PDF](./INSURANCEPROJECT.pdf)
+ 
+  ### 8. [Sustainable Supply Chain Management – Unilever Case Study](./SSCM-Unilever)  
+- **Focus:** Supply chain sustainability & resilience  
+- **Highlights:**  
+  - Applied frameworks (TBL, NRBV, Kraljic, Porter’s Value Chain) to analyze Unilever’s supply chain  
+  - Proposed AI, IoT, and blockchain solutions for resilience and traceability  
+  - Files: [Report PDF](./SSCM.pdf)  
+
   
 
